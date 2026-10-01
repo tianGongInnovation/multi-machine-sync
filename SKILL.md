@@ -2,14 +2,14 @@
 name: multi-machine-sync
 description: 一个人同时使用多台电脑（家里台式机、办公室电脑、出差笔记本）时，让 AI 助手在几台电脑间“像同一台”的使用模式。没有这套模式时，您在这台电脑上跟 AI 说过的话、定下的规矩、做过的任务，换台电脑就断片了，每件事都要重说一遍。本技能提供一整套联动做法：多台电脑登录同一个账号，个人配置（规矩、习惯、技能、脚本）跨机自动同步，任务和进度无缝衔接——在 A 电脑上做了一半的事，到 B 电脑上能接着做，就像一直用同一台电脑。包含新机器初始化流程：新电脑装好 AI 助手后，一句话完成首次同步，之后每次开机自动保持最新。适合：家里单位两头跑、有备用机，或正在从旧电脑换到新电脑的使用者。触发词：多机联动、跨机同步、多台电脑、多电脑、换电脑、新机器初始化、多设备、同步配置、multi machine、sync profile。
 agent_created: true
-version: 1.0.4
+version: 1.0.5
 author: 天工创新坊
 license: CC BY 4.0
 display_name: "多机联动模式"
 display_name_en: Multi-Machine Sync
-trigger: ["多机联动", "跨机同步", "多台电脑", "换电脑", "新机器初始化"]
+trigger: ["多机联动", "跨机同步", "多台电脑", "换电脑", "新机器初始化", "multi-machine linkage", "sync across machines", "multiple computers", "new machine setup"]
 description_zh: "一人多台电脑共用同一智能体账号，配置与任务衔接连贯"
-description_en: "Multi-machine Agent linkage mode for seamless config sync"
+description_en: "One person, several computers, one agent account: configuration and tasks stay continuous across machines"
 category: productivity
 ---
 
